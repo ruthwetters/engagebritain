@@ -1,0 +1,3 @@
+# russian-trolls
+
+This was a project completed in fulfilment of the requirements of the Visual Analytics module at City, University of London. It's an exploration of the set of 3 million Russian troll tweets compiled by FiveThirtyEight in 2018, following Twitter's announcement of the removal of nearly 11 million tweets associated with the Internet Research Agency. The data can be found here [https://github.com/fivethirtyeight/russian-troll-tweets]. Techniques used: exploratory data analysis, latent dirichlet allocation, sentiment analysis, Pearson correlation. This assignment received a mark of 66.
